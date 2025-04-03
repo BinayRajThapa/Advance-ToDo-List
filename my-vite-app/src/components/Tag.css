@@ -1,0 +1,17 @@
+.tag {
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+    border: 1px solid #ddd;
+    transition: all 0.2s ease;
+  }
+  
+  .tag:hover {
+    transform: translateY(-1px);
+  }
+  
+  .tag.selected {
+    color: white;
+  }
