@@ -38,7 +38,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/todo-list-react.git
+   git clone https://github.com/BinayRajThapa/Advance-ToDo-List.git
 
 2. **Install dependencies:**
    ```bash
@@ -57,8 +57,6 @@
 
 | Feature | Screenshot |
 |---------|-----------|
-| **Mobile view** | ![Add Task](./images/mobile1.jpg) |
-| **Mobile view** | ![Add Task](./images/mobile2.jpg) |
 | **Editing a Task** | ![Edit Task](./images/edit.png) |
 | **Delete Confirmation** | ![Delete Dialog](./images/delete.png) |
 
